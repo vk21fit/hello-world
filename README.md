@@ -1,2 +1,4 @@
-# hello-world
-it is for practise using github flow
+let start = 'Hello World';
+console.log(start);
+
+//this is the start of domething wonderful.
